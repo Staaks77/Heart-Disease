@@ -1,4 +1,4 @@
-# Heart-Disease Análise
+# Análise de Riscos de Doenças Cardiovasculares
 
 Essa é uma análise sobre alguns fatores de risco que causam doenças cardiovasculares.
 
